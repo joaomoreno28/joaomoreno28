@@ -4,21 +4,13 @@
 - Atuo em projetos voltados ao desenvolvimento de sistemas administrativos, prestando serviços para uma empresa de tecnologia sediada em São Paulo. Sou analista de requisitos, com grande interesse em aprimorar e expandir meus conhecimentos técnicos.
 - Atualmente, estou aprendendo linguagens de programação front-end, como HTML, CSS e JavaScript. Além disso, estou me aprofundando em computação em nuvem por meio de certificações oferecidas pela Google, AWS e Oracle, adquirindo conhecimentos fundamentais sobre computação em nuvem, infraestrutura, machine learning e manipulação de dados. Ao longo da minha jornada de aprendizado, desenvolvi uma base sólida em diversas tecnologias, incluindo:
   - Linux 
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   - Cloud Computing
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" width="40" height="40"/>
   - HTML
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="40" height="40"/>
   - CSS
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
   - JavaScript
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> 
   - API
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40" />
   - SQL
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
   - Git
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
           
 - Você pode me encontrar nas minhas redes sociais
 <div>
