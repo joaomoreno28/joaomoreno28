@@ -1,8 +1,8 @@
 # Olá! Bem vindo ao meu perfil do Github
 ## Meu nome é João Moreno. 
 
-- Trabalho em projetos de desenvolvimento de sistemas admnistrativos, prestando serviço para empresa de tecnologia em São Paulo. Sou analista de requisitos com grande interesse em conhecimentos técnicos.
-- Atualmente estou apredendo linguagnes de programação de front-end como HTML, CSS e JavaScript. Além disso estou me aprofundando em computação em nuvem através de certificações da Goggle, AWS e Oracle, aprendendo os principais fundamentos de computação em nuvem, Infraestrutura, MachineLearning e manipulção de dados. Durante minha jornada de aprendizado, adquiri conhecimentos sólidos em diversas tecnologias incluindo:
+- Atuo em projetos voltados ao desenvolvimento de sistemas administrativos, prestando serviços para uma empresa de tecnologia sediada em São Paulo. Sou analista de requisitos, com grande interesse em aprimorar e expandir meus conhecimentos técnicos.
+- Atualmente, estou aprendendo linguagens de programação front-end, como HTML, CSS e JavaScript. Além disso, estou me aprofundando em computação em nuvem por meio de certificações oferecidas pela Google, AWS e Oracle, adquirindo conhecimentos fundamentais sobre computação em nuvem, infraestrutura, machine learning e manipulação de dados. Ao longo da minha jornada de aprendizado, desenvolvi uma base sólida em diversas tecnologias, incluindo:
   - Linux 
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   - Cloud Computing
